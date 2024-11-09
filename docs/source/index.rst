@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+GK88 – Đặt Cược Thông Minh – Chiến Thắng Tự Tin
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GK88 <https://gk88.education/>`_ là nhà cái cá cược trực tuyến uy tín hàng đầu châu Á, ra mắt từ năm 2018 tại Philippines và được cấp phép hợp pháp bởi PAGCOR và FCLRC. Với hơn 6 năm kinh nghiệm và 8 triệu người dùng, GK88 đã xây dựng thương hiệu vững mạnh nhờ sản phẩm đa dạng, bảo mật cao và dịch vụ chuyên nghiệp. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người chơi có thể tận hưởng nhiều trò chơi như casino, thể thao, bắn cá, nổ hũ, đá gà và xổ số với giao diện thân thiện và kho game phong phú. Đặc biệt, hệ thống thanh toán của GK88 an toàn, nhanh chóng, cùng chương trình khuyến mãi hấp dẫn liên tục dành cho mọi thành viên. GK88 luôn nỗ lực nâng cấp sản phẩm, dịch vụ để mang đến trải nghiệm cá cược tuyệt vời và hướng đến trở thành nhà cái hàng đầu tại thị trường châu Á.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 18/20 Tống Văn Hên, Phường 15, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0983654258. 
 
-.. toctree::
+Email: info@gk88.education. 
 
-   usage
-   api
+Website: https://gk88.education/
+
+#gk88 #trangchugk88 #dangkygk88 #dangnhapgk88 #linkgk88
